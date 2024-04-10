@@ -6,5 +6,5 @@ primer_numero = 10
 segundo_numero = 5
 suma_numeros = primer_numero + segundo_numero
 
-resultado = funcion_multiplicar(primer_numero, producto)
+resultado = funcion_multiplicar(primer_numero, suma_numeros)
 print(resultado)
